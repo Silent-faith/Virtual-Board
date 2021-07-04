@@ -1,4 +1,4 @@
 Flask==1.1.1
 numpy>=1.9.2
-cv2==4.5.2
+cv2
 mediapipe==0.8.6 
