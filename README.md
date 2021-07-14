@@ -10,7 +10,7 @@ $ pip3 install -r requirements.txt
 ### Instructions
 > 1. To run on local machine **without a Flask server**.
 ```bash
-$ python3 run painter.py
+$ python3 run BlackBoard.py
 ```
 > 2. To run as a local host on a **Flask server**.
 >- Run the Flask app
